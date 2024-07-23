@@ -46,19 +46,19 @@
 
     img {
         width: 200px;
-        height: 90px;
+        height: 300px;
         object-fit: cover;
-        border-radius: 1px;
-       background-image: linear-gradient(90deg, rgb(171, 190, 64) 0%, rgba(0, 212, 255, 0) 70%); 
+        border-radius: 10px;
+
     }
 
     .caja {
         width: 200px;
         height: auto;
         margin: 20px;
-        z-index: 90;
-       
- 
+        background-color: rgba(0, 0, 255, 0);
+
+
     }
 
     .dv {
@@ -115,6 +115,8 @@
 
         img {
             width: 160px;
+            height: 241px;
+
         }
 
         .ver {
